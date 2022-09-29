@@ -1,0 +1,23 @@
+In w3 schools:            in mob =>map method,js variables,call back
+Js home
+introduction
+js where to
+js output
+js variable
+js functions
+js objects
+js events(onclick and onchange)
+js arrays
+js array methods
+js array sorts
+js else,switch.loop
+js maps
+js this keyword
+js arrow function
+js async =>callbacks(mob),js asynchornous,promise,async and await(second try it your self)
+
+set interval(alerts will come 2 seconds one time)
+set timeout(button click after 3 seconds alerts will be come) dei ketkudhu da
+
+
+ket
